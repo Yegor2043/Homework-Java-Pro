@@ -32,9 +32,9 @@ public class PhoneBook {
         phoneBook.add("Петров", List.of(1141441));
         phoneBook.add("Петров", List.of(2541441));
         phoneBook.add("Петров", List.of(1141441));
+        phoneBook.add("Сидоров", List.of(112141));
         phoneBook.add("Сидоров", List.of(1141441));
-        phoneBook.add("Сидоров", List.of(1141441));
-        phoneBook.add("Иванов", List.of(1141441));
+        phoneBook.add("Иванов", List.of(1196453));
 
     }
 
