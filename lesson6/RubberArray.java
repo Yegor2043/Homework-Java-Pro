@@ -56,7 +56,7 @@ public class RubberArray {
                }
 
                if (j == array.length) {
-                   System.out.println("Числа не существует! -1");
+                   System.out.println("Число не находится в массиве!");
                }
            }
         }
